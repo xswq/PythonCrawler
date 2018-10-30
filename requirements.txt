@@ -6,7 +6,6 @@ idna==2.7
 lxml==4.2.5
 post==1.0.2
 public==2.0.1
-pycrypto==2.6.1
 query-string==1.0.2
 request==1.0.2
 requests==2.20.0
